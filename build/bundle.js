@@ -1,0 +1,1 @@
+(()=>{const e=document.createElement("h2");e.innerHTML="this is react",document.body.append(e)})();
